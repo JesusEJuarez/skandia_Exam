@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Conexión a PostgreSQL 
-DATABASE_URL = "postgresql://postgres:Oliver2001$@localhost:5432/Skandia"
+DATABASE_URL = "postgresql://postgres:[contraseña]$@localhost:5432/Skandia"
 engine = create_engine(DATABASE_URL)
 
 # Leer el archivo Excel con todas sus hojas
