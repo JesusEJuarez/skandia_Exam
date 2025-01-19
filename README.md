@@ -16,5 +16,8 @@ ORDER BY monto_total DESC
 LIMIT 10;
 
 ```
-El resultado obtenido fue el siguiente:
+El resultado obtenido fue el siguiente: <br />
 <img src="img/Resultado1.jpg" alt="Resultado 1" />
+
+
+## Ejercicio 2: Power Automate
